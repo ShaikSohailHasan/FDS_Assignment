@@ -1,7 +1,7 @@
 # FDS_Assignment
 Human Activity Recognition 
 
-Supervisor
+Supervisor:
 Dr. Siddhaling Urolagin,
 PhD, Post-Doc, (Machine Learning),
 dr.siddhaling@gmail.com,
