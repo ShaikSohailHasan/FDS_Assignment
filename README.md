@@ -1,5 +1,5 @@
 # FDS_Assignment
-Human Activity Recognition 
+Human Activity Recognition using Flutter and LSTMs (Google Colab)
 
 Supervisor:
 Dr. Siddhaling Urolagin,
