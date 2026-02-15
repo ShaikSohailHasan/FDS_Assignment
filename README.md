@@ -1,4 +1,3 @@
-# FDS_Assignment
 Human Activity Recognition using Flutter and LSTMs (Google Colab)
 
 There are two Files / Projects --> 1) HAR with Flutter 2) HAR with Google Colab
